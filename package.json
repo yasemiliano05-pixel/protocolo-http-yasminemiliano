@@ -1,0 +1,24 @@
+{
+  "name": "protocolo-http-yasminemiliano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasemiliano05-pixel/protocolo-http-yasminemiliano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasemiliano05-pixel/protocolo-http-yasminemiliano/issues"
+  },
+  "homepage": "https://github.com/yasemiliano05-pixel/protocolo-http-yasminemiliano#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
